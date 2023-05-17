@@ -4,7 +4,7 @@ I am actually a noob when it comes to actual scripting in JavaScript in KubeJS a
 
 <details>
 
-<summary>A music video to explain why some sudden inactivity may happen. Translate the lyrics from Japanese to English.</summary>
+<summary>A music video to explain why some sudden inactivity for a very long time, maybe forever, may happen. Translate the lyrics from Japanese to English.</summary>
 
  ### 【Honkai: Star Rail MMD】なにやってもうまくいかない【Trailblazer/Stelle】
  
