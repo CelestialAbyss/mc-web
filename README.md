@@ -4,14 +4,15 @@ I am actually a noob when it comes to actual scripting in JavaScript in KubeJS a
 
 <details>
 
-<summary>A music video to explain why some sudden inactivity for a very long time, maybe forever, may happen. Translate the lyrics from Japanese to English.</summary>
+<summary>A music video to explain why sudden inactivity may occur and I may or may not be gone entirely. Translate the lyrics from Japanese to English.</summary>
 
  ### 【Honkai: Star Rail MMD】なにやってもうまくいかない【Trailblazer/Stelle】
  
- <a href="https://www.youtube.com/embed/--hc6SzDARA" target="_blank">
+<a href="https://www.youtube.com/embed/--hc6SzDARA" target="_blank">
  <img src="http://img.youtube.com/vi/--hc6SzDARA/mqdefault.jpg" alt="Watch the video" width="560" height="315" border="10" />
 </a>
-
+ 
+ TL;DR - Nothing in life is going right for me right now.
  
 0:00
 バカクソゴミクズきちゃない言葉で誰かを傷付けた 無視するつもりが真に受けタラレバほらまた傷付いた 大好きだったものちょっと嫌いになりそうな気がしてた やりもしないくせ出来もしないくせ偉そうな口きくな
