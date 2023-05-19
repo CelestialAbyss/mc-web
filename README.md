@@ -4,7 +4,7 @@ I am actually a noob when it comes to actual scripting in JavaScript in KubeJS a
 
 <details>
 
-<summary>A music video to explain why sudden inactivity may occur and I may or may not be gone entirely. Translate the lyrics from Japanese to English.</summary>
+<summary>A music video to explain why sudden inactivity may occur and I may or may not be gone entirely.</summary>
 
  ### 【Honkai: Star Rail MMD】なにやってもうまくいかない【Trailblazer/Stelle】
  
@@ -12,7 +12,7 @@ I am actually a noob when it comes to actual scripting in JavaScript in KubeJS a
  <img src="http://img.youtube.com/vi/--hc6SzDARA/mqdefault.jpg" alt="Watch the video" width="560" height="315" border="10" />
 </a>
  
- TL;DR - Nothing in life is going right for me right now.
+ TL;DR - Nothing in life is going right for me right now. [ENG translation](https://www.lyrical-nonsense.com/global/lyrics/meiyo/nani-yattemo-umaku-ikanai/english/)
  
 0:00
 バカクソゴミクズきちゃない言葉で誰かを傷付けた 無視するつもりが真に受けタラレバほらまた傷付いた 大好きだったものちょっと嫌いになりそうな気がしてた やりもしないくせ出来もしないくせ偉そうな口きくな
