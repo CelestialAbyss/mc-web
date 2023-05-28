@@ -151,3 +151,10 @@ I am actually a noob when it comes to actual scripting in JavaScript in KubeJS a
 
 </details>
 
+<details>
+
+<summary>The actual reason why activity might stop altogether.</summary>
+ 
+ I don't really want to talk about my current situation as it might be laughable by some, but I am a bit of a failure as an adult despite being what was considered the "gifted and talented" student through elementary, middle school and high school. I even taught how to use Blender 2.8 during my last year in high school in my Digital Arts class.
+ 
+ </details>
