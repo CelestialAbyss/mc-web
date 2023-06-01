@@ -157,4 +157,8 @@ I am actually a noob when it comes to actual scripting in JavaScript in KubeJS a
  
  I don't really want to talk about my current situation as it might be laughable by some, but I am a bit of a failure as an adult despite being what was considered the "gifted and talented" student through elementary, middle school and high school. I even taught how to use Blender 2.8 during my last year in high school in my Digital Arts class.
  
+You could say I am bit dysfunctional, in other words.
+ 
+ All of my work will be transferred to a new owner or become public domain once I am deceased.
+ 
  </details>
