@@ -8,7 +8,7 @@ Also currently working on the Finality modpack series and [Another Create Wiki](
 
 <summary>A music video to explain why sudden inactivity may occur and I may or may not be gone entirely.</summary>
 
- ### 【Honkai: Star Rail MMD】なにやってもうまくいかない【Trailblazer/Stelle】
+ ### [【Honkai: Star Rail MMD】なにやってもうまくいかない【Trailblazer/Stelle】](https://youtu.be/--hc6SzDARA)
  
 <a href="https://www.youtube.com/embed/--hc6SzDARA" target="_blank">
  <img src="http://img.youtube.com/vi/--hc6SzDARA/mqdefault.jpg" alt="Watch the video" width="560" height="315" border="10" />
