@@ -2,6 +2,8 @@
 
 I am actually a noob when it comes to actual scripting in JavaScript in KubeJS and ZenScript in CraftTweaker despite writing a lot of recipes by hand. There *might* even be more efficient ways of writing them all.
 
+Also currently working on the Finality modpack series and Another Create Wiki.
+
 <details>
 
 <summary>A music video to explain why sudden inactivity may occur and I may or may not be gone entirely.</summary>
