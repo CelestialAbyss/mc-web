@@ -1,6 +1,6 @@
 # Hello there!
 
-I am actually a noob when it comes to actual scripting in JavaScript in KubeJS and ZenScript in CraftTweaker despite writing a lot of recipes by hand. There *might* even be more efficient ways of writing them all.
+I am actually a noob when it comes to actual scripting in JavaScript in KubeJS and ZenScript in CraftTweaker despite writing a lot of recipes by hand. There *might* even be more efficient ways of writing them all. I am not a software engineer! I just happened to pick up programming languages very well because of my understanding of the documentation.
 
 Also currently working on the Finality modpack series (see below) and [Another Create Wiki](https://github.com/Project-Vyre/another-create-wiki) which is intended for Create players and beginners looking to *create* their own custom experience.
 
