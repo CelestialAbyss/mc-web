@@ -8,7 +8,7 @@ Also currently working on the Finality modpack series (see below) and [Another C
 - [Finality Tau](https://www.curseforge.com/minecraft/modpacks/finality-tau)
 - [Finality Genesis](https://www.curseforge.com/minecraft/modpacks/finality-genesis)
 
-Looking for the modpack and wiki repositories? They are now located here in the [Project Vyre](https://github.com/Project-Vyre) GitHub Organization.
+Looking for the Finality modpack and wiki repositories? They are now located here in the [Project Vyre](https://github.com/Project-Vyre) GitHub Organization.
 Here's the link if you don't trust the link text: https://github.com/Project-Vyre
 
 <details>
