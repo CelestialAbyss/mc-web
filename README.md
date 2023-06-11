@@ -22,7 +22,7 @@ Here's the link if you don't trust the link text: https://github.com/Project-Vyr
 
 <summary>A music video to explain why sudden inactivity may occur and I may or may not be gone entirely.</summary>
 
- ### [【Honkai: Star Rail MMD】なにやってもうまくいかない【Trailblazer/Stelle】](https://youtu.be/--hc6SzDARA)
+### [【Honkai: Star Rail MMD】なにやってもうまくいかない【Trailblazer/Stelle】](https://youtu.be/--hc6SzDARA)
  
 <a href="https://www.youtube.com/embed/--hc6SzDARA" target="_blank">
  <img src="http://img.youtube.com/vi/--hc6SzDARA/mqdefault.jpg" alt="Watch the video" width="560" height="315" border="10" />
@@ -36,10 +36,10 @@ TL;DR - Nothing in life is going right for me right now. [ENG translation](https
 
 <summary>The actual reason why activity might stop altogether.</summary>
  
- I don't really want to talk about my current situation as it might be laughable by some, but I am a bit of a failure as an adult despite being what was considered the "gifted and talented" student through elementary, middle school and high school. I even taught how to use Blender 2.8 during my last year in high school in my Digital Arts class.
+I don't really want to talk about my current situation as it might be laughable by some, but I am a bit of a [failure](https://www.youtube.com/watch?v=YoZEaX8a_YU) as an adult despite being what was considered the "gifted and talented" student [through](https://youtu.be/90Fpjwctqlw) elementary, middle school and high school. I even taught how to use Blender 2.8 during my last year in high school in my Digital Arts class.
  
-You could say I am bit dysfunctional and running on fumes, in other words.
+You could say I am bit dysfunctional and running on [fumes](https://youtu.be/6eh39VWPIj4), in other words.
  
- All of my work will be transferred to a new owner or become public domain once I am deceased.
+All of my work will be transferred to a new owner or become public domain once I am [deceased](https://youtu.be/O7uy4ws5-RU) if I am unable to write a will. There's a lot of things out of my control at the moment.
  
- </details>
+</details>
