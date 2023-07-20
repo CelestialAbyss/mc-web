@@ -9,9 +9,10 @@
 
 Also currently working on the Finality modpack series (see below) and [Another Create Wiki](https://github.com/Project-Vyre/another-create-wiki) which is intended for Create players and beginners looking to *create* their own custom experience.
 
-- [Finality](https://www.curseforge.com/minecraft/modpacks/finality)
+- [Finality Omnia](https://www.curseforge.com/minecraft/modpacks/finality-omnia)
 - [Finality Tau](https://www.curseforge.com/minecraft/modpacks/finality-tau)
 - [Finality Genesis](https://www.curseforge.com/minecraft/modpacks/finality-genesis)
+- [Finality Mote](https://www.curseforge.com/minecraft/modpacks/finality-genesis)
 
 Looking for the Finality modpack and wiki repositories? They are now located here in the [Project Vyre](https://github.com/Project-Vyre) GitHub Organization.
 Here's the link if you don't trust the link text: https://github.com/Project-Vyre
