@@ -7,7 +7,7 @@
 - Where is your artwork?
   - Currently not available online.
 
-Also currently working on the Finality modpack series (see below) and [Another Create Wiki](https://github.com/Project-Vyre/another-create-wiki) which is intended for Create players and beginners looking to *create* their own custom experience.
+Also currently working on the Finality modpack series (see below) and [Another Create Wiki](https://github.com/Project-Vyre/another-create-wiki) which is intended for Create players and beginners looking to *create* large factories and train networks.
 
 - [Finality Omnia](https://www.curseforge.com/minecraft/modpacks/finality-omnia)
 - [Finality Tau](https://www.curseforge.com/minecraft/modpacks/finality-tau)
