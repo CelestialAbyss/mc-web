@@ -5,7 +5,7 @@
 - I am not a software engineer!
   - I just happened to pick up programming languages very well because of my understanding of the documentation for [KubeJS](https://kubejs.com/) and [Just-the-Docs](https://just-the-docs.com/). Outside of that I don't have the practical knowledge for JavaScript, Ruby, SCSS, HTML etc. to be able to create things on my own.
 - Where is your artwork?
-  - Currently not available online.
+  - Currently not available online, though my butterfly profile picture and Project Vyre logo are some of them.
   - There are now two exceptions for this: the new ModernFix logo and new KubeJS logo.
 
 Also currently working on the Finality modpack series (see below) and [Another Create Wiki](https://github.com/Project-Vyre/another-create-wiki) which is intended for Create players and beginners looking to *create* large factories and train networks.
