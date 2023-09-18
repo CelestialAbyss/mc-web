@@ -6,7 +6,10 @@
   - I just happened to pick up programming languages very well because of my understanding of the documentation for [KubeJS](https://kubejs.com/) and [Just-the-Docs](https://just-the-docs.com/). Outside of that I don't have the practical knowledge for JavaScript, Ruby, SCSS, HTML etc. to be able to create things on my own.
 - Where is your artwork?
   - Currently not available online, though my butterfly profile picture and Project Vyre logo are some of them.
-  - There are now two exceptions for this: the new ModernFix logo and new KubeJS logo.
+  - There are now two exceptions for this: the new ModernFix logo and new KubeJS logo. I'll provide the badges below so you can see how they look.
+
+![Optimized with ModernFix](https://raw.githubusercontent.com/CelestialAbyss/badges/main/devinsbadges-modernfix_transparent/cozy_vector.svg)
+![Built with KubeJS](https://raw.githubusercontent.com/CelestialAbyss/badges/acc4ca60d4dbb9c5763e9156c2cccc27ab210c51/devinsbadges-kubejs_logo-1.1/cozy_vector.svg)
 
 Also currently working on the Finality modpack series (see below) and [Another Create Wiki](https://github.com/Project-Vyre/another-create-wiki) which is intended for Create players and beginners looking to *create* large factories and train networks.
 
