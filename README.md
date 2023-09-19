@@ -9,7 +9,7 @@
   - There are now two exceptions for this: the new ModernFix logo and new unofficial KubeJS logo made so it looks good on Devin's badges. I'll provide the badges below so you can see how they look.
 
 ![Optimized with ModernFix](https://raw.githubusercontent.com/CelestialAbyss/badges/main/devinsbadges-modernfix_transparent/cozy_64h.png)
-![Built with KubeJS](https://raw.githubusercontent.com/CelestialAbyss/badges/main/devinsbadges-kubejs_logo-1.1/cozy_64h.png)
+![Powered by KubeJS]([https://raw.githubusercontent.com/CelestialAbyss/badges/main/devinsbadges-kubejs_logo-1.1/cozy_64h.png](https://raw.githubusercontent.com/CelestialAbyss/badges/main/kubejs/powered_by_kubejs/cozy_64h.png))
 
 Also currently working on the Finality modpack series (see below) and [Another Create Wiki](https://github.com/Project-Vyre/another-create-wiki) which is intended for Create players and beginners looking to *create* large factories and train networks.
 
