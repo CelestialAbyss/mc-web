@@ -1,7 +1,8 @@
 # Hi!
 
 - I am actually a noob when it comes to actual scripting in JavaScript in KubeJS and ZenScript in CraftTweaker despite writing a lot of recipes by hand. 
-  - There *might* even be more efficient ways of writing them all. 
+  - There *might* even be more efficient ways of writing them all.
+- Looking for custom Create related recipes? Go here: https://github.com/CelestialAbyss/Create-Customized
 - I am not a software engineer!
   - I just happened to pick up programming languages very well because of my understanding of the documentation for [KubeJS](https://kubejs.com/) and [Just-the-Docs](https://just-the-docs.com/). Outside of that I don't have the practical knowledge for JavaScript, Ruby, SCSS, HTML etc. to be able to create things on my own.
 - Where is your artwork?
