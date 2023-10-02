@@ -14,10 +14,12 @@
 
 Also currently working on the Finality modpack series (see below) and [Another Create Wiki](https://github.com/Project-Vyre/another-create-wiki) which is intended for Create players and beginners looking to *create* large factories and train networks.
 
-- [Finality Omnia](https://www.curseforge.com/minecraft/modpacks/finality-omnia) - Development postponed.
-- [Finality Tau](https://www.curseforge.com/minecraft/modpacks/finality-tau) - Development postponed.
-- [Finality Genesis](https://www.curseforge.com/minecraft/modpacks/finality-genesis) - Development priority.
-- [Finality Mote](https://www.curseforge.com/minecraft/modpacks/finality-genesis) - Development secondary.
+| Modpack Name | Status |
+| ------------ | ------ |
+| [Finality Omnia](https://www.curseforge.com/minecraft/modpacks/finality-omnia) | Postponed |
+| [Finality Tau](https://www.curseforge.com/minecraft/modpacks/finality-tau) | Postponed |
+| [Finality Genesis](https://www.curseforge.com/minecraft/modpacks/finality-genesis) | Priority |
+| [Finality Mote](https://www.curseforge.com/minecraft/modpacks/finality-mote) | Secondary Priority |
 
 Looking for the Finality modpack and wiki repositories? They are now located here in the [Project Vyre](https://github.com/Project-Vyre) GitHub Organization.
 Here's the link if you don't trust the link text: https://github.com/Project-Vyre
