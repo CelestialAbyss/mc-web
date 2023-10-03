@@ -12,7 +12,10 @@
 ![Optimized with ModernFix](https://raw.githubusercontent.com/CelestialAbyss/badges/main/devinsbadges-modernfix_transparent/cozy_64h.png)
 ![Powered by KubeJS](https://raw.githubusercontent.com/CelestialAbyss/badges/main/kubejs/powered_by_kubejs/cozy_64h.png)
 
-Also currently working on the Finality modpack series (see below) and [Another Create Wiki](https://github.com/Project-Vyre/another-create-wiki) which is intended for Create players and beginners looking to *create* large factories and train networks.
+## Projects
+
+- [Another Create Wiki](https://github.com/Project-Vyre/another-create-wiki)
+- Currently working on the Finality modpack series, (see below) which intended for Create players and beginners looking to *create* large factories and train networks.
 
 | Modpack Name | Status |
 | ------------ | ------ |
