@@ -14,7 +14,9 @@
 
 ## Projects
 
-- [Another Create Wiki](https://github.com/Project-Vyre/another-create-wiki)
+- [Another Create Wiki](https://github.com/Project-Vyre/another-create-wiki), currently a work in progress and not finished at all.
+- [Create Customized](https://github.com/CelestialAbyss/Create-Customized), a repository filled with KubeJS and CraftTweaker examples. Work in progress!
+- [Absinthe](https://github.com/CelestialAbyss/absinthe), a fork of [Universalator](https://github.com/nanonestor/universalator) by [nanonestor](https://github.com/nanonestor). I probably shouldn't be diving into this without more experience, but I did want to at least try... 😓
 - Currently working on the Finality modpack series, (see below) which intended for Create players and beginners looking to *create* large factories and train networks.
 
 | Modpack Name | Status |
