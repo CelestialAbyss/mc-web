@@ -1,0 +1,1 @@
+This folder serves as a public archive. Everything will be in Markdown.
