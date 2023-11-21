@@ -1,23 +1,45 @@
-A general list of optimization mods that I use.
+A general list of NeoForge / Forge optimization mods that I use. The majority of Fabric users should already be familiar with theirs
 
-Please note that this is currently a work in progress!
+> [!NOTE]  
+> Please note that this is currently a work in progress!
+
+Click the dropdown menus below to see the tables.
 
 <details>
-<summary>
-For Forge 1.18.2 - 1.19.2
-</summary>
+
+<summary>For NeoForge / Forge 1.20 - 1.20.3 </summary>
 
 | Mod name | Purpose | Notes | Incompatibilities |
 | -------- | ------- | ----- | ----------------- |
 | [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore) | [See here.](https://github.com/malte0811/FerriteCore/blob/main/summary.md) | N/A | Unknown |
 | [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix) | [See here.](https://github.com/embeddedt/ModernFix/wiki/Summary-of-Patches) | Report any bugs to embeddedt. Thank you. | Unknown |
 | [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium) | Embeddium is an unofficial fork of Sodium based off Rubidium, with additional changes and bugfixes to integrate it with the Forge modding ecosystem. | Report any bugs to embeddedt. Thank you. | Unknown |
-| [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge) | Placeholder | Not as necessary in 1.20+ | Unknown |
-| [Redirector](https://curseforge.com/mc-mods/redirector) | Purpose placeholder | Notes placeholder | Incompatibilities placeholder |
-| [NotEnoughRecipeBook](https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook) | Completely removes the recipe book and recipe book data from the player. | Placeholder | There was an incompatible mod somewhere... need to find it. |
-| [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast) | Placeholder | May break UI elements in certain situations. | Unknown |
-| 
+| [Redirector](https://curseforge.com/mc-mods/redirector) | Reduces required memory and improves access speeds. | [Ignore a harmless warn.](https://discord.com/channels/1140803582208245810/1140807479253545001/1164164340669227051) Otherwise, report any bugs to Kasualix / pOtAto__bOy | Unkown |
+| [NotEnoughRecipeBook](https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook) | Completely removes the recipe book and recipe book data from the player. | N/A | There was an incompatible mod somewhere... need to find it. |
+| [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast) | [See here.](https://github.com/RaphiMC/ImmediatelyFast/tree/v1.2.7#optimizations) | May break UI elements in certain situations. | Unknown |
+
 </details>
+
+<details>
+
+<summary>For Forge 1.18.2 - 1.19.2</summary>
+
+| Mod name | Purpose | Notes | Incompatibilities |
+| -------- | ------- | ----- | ----------------- |
+| [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore) | [See here.](https://github.com/malte0811/FerriteCore/blob/main/summary.md) | N/A | Unknown |
+| [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix) | [See here.](https://github.com/embeddedt/ModernFix/wiki/Summary-of-Patches) | Report any bugs to embeddedt. Thank you. | Unknown |
+| [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium) | Embeddium is an unofficial fork of Sodium based off Rubidium, with additional changes and bugfixes to integrate it with the Forge modding ecosystem. | Report any bugs to embeddedt. Thank you. | Unknown |
+| [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge) | [See here.](https://github.com/CorgiTaco/lazydfu#lazydfu) | Not needed in 1.20.x+ | Unknown |
+| [Redirector](https://curseforge.com/mc-mods/redirector) | Reduces required memory and improves access speeds. | [Ignore a harmless warn.](https://discord.com/channels/1140803582208245810/1140807479253545001/1164164340669227051) Otherwise, report any bugs to Kasualix / pOtAto__bOy | Unkown |
+| [NotEnoughRecipeBook](https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook) | Completely removes the recipe book and recipe book data from the player. | N/A | There was an incompatible mod somewhere... need to find it. |
+| [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast) | [See here.](https://github.com/RaphiMC/ImmediatelyFast/tree/v1.2.7#optimizations) | May break UI elements in certain situations. | Unknown |
+| [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight-forge) | Rewrites the lighting engine in simplified terms. | Occasional chunk lighting weirdness. | Unknown |
+
+</details>
+
+---
+
+## General List
 
 - Redirector
 - LazyDFU (don't use in 1.20+)
