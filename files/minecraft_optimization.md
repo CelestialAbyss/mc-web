@@ -3,6 +3,9 @@ A general list of NeoForge / Forge optimization mods that I use. The majority of
 > [!NOTE]  
 > Please note that this is currently a work in progress!
 
+> [!WARNING]
+> This optimization mod list was only tested on computers with x86 CPUs with NVIDIA / AMD GPUs. I can't confirm that computers with ARM CPUs will have the same performance.
+
 Click the dropdown menus below to see the tables.
 
 <details>
