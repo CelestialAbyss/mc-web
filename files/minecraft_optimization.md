@@ -42,7 +42,7 @@ Click the dropdown menus below to see the tables.
 
 ---
 
-## General List
+Old list below.
 
 - Redirector
 - LazyDFU (don't use in 1.20+)
