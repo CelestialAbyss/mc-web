@@ -1,16 +1,32 @@
 # Hi!
 
+Looking for my profile's repository? [Click here.](https://github.com/CelestialAbyss/CelestialAbyss)
+
+A few clarifications:
+
 - I am actually a noob when it comes to actual scripting in JavaScript in KubeJS and ZenScript in CraftTweaker despite writing a lot of recipes by hand. 
   - There *might* even be more efficient ways of writing them all.
 - Looking for custom Create related recipes? Go here: https://github.com/CelestialAbyss/Create-Customized
 - I am not a software engineer!
   - I just happened to pick up programming languages very well because of my understanding of the documentation for [KubeJS](https://kubejs.com/) and [Just-the-Docs](https://just-the-docs.com/). Outside of that I don't have the practical knowledge for JavaScript, Ruby, SCSS, HTML etc. to be able to create things on my own.
-- Where is your artwork?
-  - Currently not available online, though my butterfly profile picture and Project Vyre logo are some of them.
-  - There are now two exceptions for this: the new ModernFix logo and new unofficial KubeJS logo made so it looks good on Devin's badges. I'll provide the badges below so you can see how they look.
+
+### Where is your artwork?
+
+Currently not available online, though my butterfly profile picture and Project Vyre logo are some of them.
+
+- There are now two exceptions for this. I'll provide the badges below so you can see for yourself.
+  - The new ModernFix logo.
+  - The unofficial KubeJS logo made so it looks good on Devin's badges.
+  - I did contribute to the new Embeddium logo, but did not come up with the original design.
+  - TauMC logo.
 
 ![Optimized with ModernFix](https://raw.githubusercontent.com/CelestialAbyss/badges/main/devinsbadges-modernfix_transparent/cozy_64h.png)
 ![Powered by KubeJS](https://raw.githubusercontent.com/CelestialAbyss/badges/main/kubejs/powered_by_kubejs/cozy_64h.png)
+
+> [!IMPORTANT]
+> Yes, I was offered compensation for both the ModernFix and TauMC logos but I declined out of my own volition.
+
+---
 
 ## Projects
 
@@ -19,21 +35,28 @@
 - [Absinthe](https://github.com/CelestialAbyss/absinthe), a fork of [Universalator](https://github.com/nanonestor/universalator) by [nanonestor](https://github.com/nanonestor). I probably shouldn't be diving into this without more experience, but I did want to at least try... 😓
 - Currently working on the Finality modpack series, (see below) which intended for Create players and beginners looking to *create* large factories and train networks.
 
-| Modpack Name | Status |
+### Modpack Projects
+
+| Modpack Name | Development Status |
 | ------------ | ------ |
 | [Finality Omnia](https://www.curseforge.com/minecraft/modpacks/finality-omnia) | Postponed |
 | [Finality Tau](https://www.curseforge.com/minecraft/modpacks/finality-tau) | Postponed |
 | [Finality Genesis](https://www.curseforge.com/minecraft/modpacks/finality-genesis) | Priority |
 | [Finality Mote](https://www.curseforge.com/minecraft/modpacks/finality-mote) | Secondary Priority |
 
-Looking for the Finality modpack and wiki repositories? They are now located here in the [Project Vyre](https://github.com/Project-Vyre) GitHub Organization.
+Looking for the Finality modpack and wiki repositories? They are now located here in the [Project Vyre](https://github.com/Project-Vyre) GitHub Organization page.
+
 Here's the link if you don't trust the link text: https://github.com/Project-Vyre
 
 # Miscellaneous
 
 <details>
 
-<summary>A music video to explain why sudden inactivity may occur and I may or may not be gone entirely.</summary>
+<summary>Music I listen to...</summary>
+
+Since Google will delete accounts after **two years** of inactivity, I will be keeping my playlists archived in [this repository](https://github.com/CelestialAbyss/CelestialAbyss) in the form of markdown files.
+
+A music video to explain why sudden inactivity may occur and I may or may not be gone entirely.
 
 ### [【Honkai: Star Rail MMD】なにやってもうまくいかない【Trailblazer/Stelle】](https://youtu.be/--hc6SzDARA)
  
