@@ -6,11 +6,7 @@ A general list of NeoForge / Forge optimization mods that I use. The majority of
 > [!WARNING]
 > This optimization mod list was only tested on computers with x86 CPUs with NVIDIA / AMD GPUs. I can't confirm that computers with ARM CPUs will have the same performance.
 
-Click the dropdown menus below to see the tables.
-
-<details>
-
-<summary>For NeoForge / Forge 1.20 - 1.20.3 </summary>
+## For NeoForge / Forge 1.20 - 1.20.4+
 
 | Mod name | Purpose | Notes | Incompatibilities |
 | -------- | ------- | ----- | ----------------- |
@@ -21,11 +17,9 @@ Click the dropdown menus below to see the tables.
 | [NotEnoughRecipeBook](https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook) | Completely removes the recipe book and recipe book data from the player. | N/A | There was an incompatible mod somewhere... need to find it. |
 | [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast) | In simplified terms it optimizes UI related things, for example... the F3 menu. [See here.](https://github.com/RaphiMC/ImmediatelyFast/tree/v1.2.7#optimizations) | May break UI elements in certain situations. | Unknown |
 
-</details>
+---
 
-<details>
-
-<summary>For Forge 1.18.2 - 1.19.2</summary>
+## For Forge 1.18.2 - 1.19.2
 
 | Mod name | Purpose | Notes | Incompatibilities |
 | -------- | ------- | ----- | ----------------- |
@@ -38,11 +32,11 @@ Click the dropdown menus below to see the tables.
 | [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast) | In simplified terms it optimizes UI related things, for example... the F3 menu. [See here.](https://github.com/RaphiMC/ImmediatelyFast/tree/v1.2.7#optimizations) | May break UI elements in certain situations. | Unknown |
 | [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight-forge) | Rewrites the lighting engine in simplified terms. | Occasional chunk lighting weirdness. | Unknown |
 
-</details>
-
 ---
 
-Old list below.
+<details>
+
+<summary>Archived stuff here.</summary>
 
 - Redirector
 - LazyDFU (don't use in 1.20+)
@@ -50,7 +44,6 @@ Old list below.
 - NotEnoughRecipeBook (this was discovered because of a funny incident in voice chat and watching server TPS die due to the vanilla recipe book and player data, thank <@930222347166818404>  for mentioning this)
 - ImmediatelyFast (though it *can* definitely cause issues so use at your own risk)
 - Starlight (don't use in 1.20+ but can still break lighting)
-- Canary (fork of Lithium, but has bugs so **use at your own risk**)
 - Better chunk loading by someaddon (Predictive chunk loading based on player movement and more)
 
-There's others like AI Improvements... (let me find that list brb)
+</details>
