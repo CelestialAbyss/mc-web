@@ -56,4 +56,6 @@ Even if you have never experienced any issues with OptiFine, it's better to swit
   - CurseForge download: https://www.curseforge.com/minecraft/mc-mods/just-zoom-forge
   - Modrinth download: https://modrinth.com/mod/just-zoom
 
-For server performance improvements, unofficial Forge forks have only caused problems along with EntityCulling.
+For server performance improvements, unofficial Forge forks have only caused problems.
+
+EntityCulling has also been found to cause extremely rare and hard to diagnose crashes.
