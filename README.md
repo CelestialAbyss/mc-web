@@ -50,6 +50,12 @@ Here's the link if you don't trust the link text: https://github.com/Project-Vyr
 
 # Miscellaneous
 
+### HoYoFair | Furina: All the World's off Stage
+
+<a href="https://www.youtube.com/embed/icg36BUkTaE" target="_blank">
+ <img src="http://img.youtube.com/vi/icg36BUkTaE/mqdefault.jpg" alt="Watch the video" width="560" height="315" border="10" />
+</a>
+
 <details>
 
 <summary>Music I listen to...</summary>
