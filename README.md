@@ -18,7 +18,7 @@ Currently not available online, though my butterfly profile picture and Project 
   - The new ModernFix logo.
   - The unofficial KubeJS logo made so it looks good on Devin's badges.
   - I did contribute to the new Embeddium logo, but did not come up with the original design.
-  - TauMC logo.
+  - [TauMC](https://github.com/TauMC) logo.
 
 ![Optimized with ModernFix](https://raw.githubusercontent.com/CelestialAbyss/badges/main/devinsbadges-modernfix_transparent/cozy_64h.png)
 ![Powered by KubeJS](https://raw.githubusercontent.com/CelestialAbyss/badges/main/kubejs/powered_by_kubejs/cozy_64h.png)
