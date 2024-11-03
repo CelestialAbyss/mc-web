@@ -18,7 +18,7 @@ Currently not available online, though my butterfly profile picture and Project 
   - The new ModernFix logo.
   - The unofficial KubeJS logo made so it looks good on Devin's badges.
   - I did contribute to the new Embeddium logo, but did not come up with the original design.
-  - TauMC logo.
+  - [TauMC](https://github.com/TauMC) logo.
 
 ![Optimized with ModernFix](https://github.com/CelestialAbyss/badges/blob/main/modernfix/cozy_64h.png?raw=true)
 ![Powered by KubeJS](https://raw.githubusercontent.com/CelestialAbyss/badges/main/kubejs/powered_by_kubejs/cozy_64h.png)
@@ -108,7 +108,13 @@ Sorted by chronological order of acquisition.
 | iPhone 5S | Defunct | Was functional until the phone screen adhesive started failing in addition to the battery not being able to hold a charge. |
 | iPhone 4S | Defunct | Until the battery couldn't hold a charge. |
 | iPhone 3GS | Defunct | Until the battery couldn't hold a charge. |
-| Nokia 3310 | Inaccessible | My first phoen at 5-6 years old. I have fond memories of it. |
+| Nokia 3310 | Inaccessible | My first phone at 5-6 years old. I have fond memories of it. |
+
+### HoYoFair | Furina: All the World's off Stage
+
+<a href="https://www.youtube.com/embed/icg36BUkTaE" target="_blank">
+ <img src="http://img.youtube.com/vi/icg36BUkTaE/mqdefault.jpg" alt="Watch the video" width="560" height="315" border="10" />
+</a>
 
 <details>
 <summary>Music I listen to...</summary>
