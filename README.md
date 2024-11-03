@@ -20,7 +20,7 @@ Currently not available online, though my butterfly profile picture and Project 
   - I did contribute to the new Embeddium logo, but did not come up with the original design.
   - TauMC logo.
 
-![Optimized with ModernFix](https://raw.githubusercontent.com/CelestialAbyss/badges/main/devinsbadges-modernfix_transparent/cozy_64h.png)
+![Optimized with ModernFix](https://github.com/CelestialAbyss/badges/blob/main/modernfix/cozy_64h.png?raw=true)
 ![Powered by KubeJS](https://raw.githubusercontent.com/CelestialAbyss/badges/main/kubejs/powered_by_kubejs/cozy_64h.png)
 
 > [!IMPORTANT]
@@ -46,12 +46,71 @@ Currently not available online, though my butterfly profile picture and Project 
 
 Looking for the Finality modpack and wiki repositories? They are now located here in the [Project Vyre](https://github.com/Project-Vyre) GitHub Organization page.
 
-Here's the link if you don't trust the link text: https://github.com/Project-Vyre
-
 # Miscellaneous
 
-<details>
+It's the whatever section.
 
+## What stuff do you use?
+
+Here's a list and their individual history.
+
+### Microphones
+
+- Elgato Wave:3
+  - Bundled with the Elgato Mic Arm, pop filter and extension rods.
+- Guitar Hero Wii mic
+  - Yes, it was actually pretty good.
+
+### Drawing Tablets
+
+- Wacom Intuos Pro S (old gen)
+
+### PC Specifications 
+
+- OMEN Obelisk case
+  - It's a prebuilt I know...
+- Intel i7-9700
+- GTX 1660 Ti
+- Corsair Vengeance LPX 16GB (2x8GB DDR4 2666 mHz)
+
+### Keyboard History
+
+Sorted by chronological order of acquisition.
+
+| Name | Status | Switch | Notes |
+| ---- | ------ | ------ | ----- |
+| Keychron V6 | Functional | Keychron Red | Mine includes the analog knob and uses the Frosted Black plastic case. |
+| Corsair K55 (old gen) | Defunct | Rubber Dome |Unfortunately suffered some liquid damage while I was cleaning it. Temporarily had to switch to the HP keyboard that came with my OMEN Obelisk. |
+
+### Mouse History
+
+Sorted by chronological order of acquisition.
+
+| Name | Status | Notes |
+| ---- | ------ | ----- |
+| Logitech G502 X Lightspeed | Functional | My current mouse, but I'm still worried due to a vocal minority saying that the optical switches started double clicking after a few months.
+| OMEN Reactor | Functional | This was probably the first mouse in the market to use optical switches on the main mouse buttons. Scroll wheel no longer scrolls properly nor does it middle click properly. The shortcomings of mechanical rotary encoders. Currently in storage. |
+| Logitech M705 Marathon (old gen) | Functional | Uncomfortable to use and the tracking accuracy is abyssmal. In reality I used the Microsoft Designer Mouse more than this. |
+| Microsoft Designer Mouse | Functional | In storage. |
+| Microsoft Arc Touch Mouse | Functional | Gave away to a friend of mine. |
+
+### Phone History
+
+Sorted by chronological order of acquisition.
+
+| Name | Status | Notes |
+| ---- | ------ | ----- |
+| Google Pixel 4a (5G) | Functional | My current device. |
+| Google Pixel 2 | Defunct | Was functional until one day the phone battery became a ***very*** spicy pillow all of a sudden. |
+| Motorola Moto G4 Plus | Functional | In storage. |
+| Microsoft Lumia 640 | Functional | In storage. |
+| Nokia Lumia 635 | Functional | In storage. |
+| iPhone 5S | Defunct | Was functional until the phone screen adhesive started failing in addition to the battery not being able to hold a charge. |
+| iPhone 4S | Defunct | Until the battery couldn't hold a charge. |
+| iPhone 3GS | Defunct | Until the battery couldn't hold a charge. |
+| Nokia 3310 | Inaccessible | My first phoen at 5-6 years old. I have fond memories of it. |
+
+<details>
 <summary>Music I listen to...</summary>
 
 Since Google will delete accounts after **two years** of inactivity, I will be keeping my playlists archived in [this repository](https://github.com/CelestialAbyss/CelestialAbyss) in the form of markdown files.
